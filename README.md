@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+    <p>
+        <img src="https://pin.it/3ZrBlIvNj" alt="Descriptive Text for the GIF" />
+    </p>
+</div>
