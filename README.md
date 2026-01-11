@@ -1,4 +1,4 @@
-## Hi there 👋
+## UMMM Hey 
 
 <!--
 **Byeolunu/Byeolunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     <p>
-        <img src="https://pin.it/3ZrBlIvNj" alt="Descriptive Text for the GIF" />
+        <img src="https://pin.it/3ZrBlIvNj" alt="I see you stalker" />
     </p>
 </div>
