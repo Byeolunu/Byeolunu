@@ -20,3 +20,8 @@ Here are some ideas to get you started:
     </p>
 </div>
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[Byeolunu]&theme=github_dark" alt="[Nouhaila]'s GitHub Stats"/>
+</div>
+
+
