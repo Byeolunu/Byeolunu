@@ -4,9 +4,7 @@
         <img src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif" alt="I see you stalker" />
     </p>
 </div>
-
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Byeolunu&theme=github_dark" alt="[Nouhaila]'s GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Byeolunu&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byeolunu&layout=compact&theme=dark" alt="Top Languages" />
 </div>
-
-
