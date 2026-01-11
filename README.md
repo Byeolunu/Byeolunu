@@ -5,6 +5,5 @@
     </p>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Byeolunu&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byeolunu&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Byeolunu&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </div>
