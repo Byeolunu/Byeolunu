@@ -1,27 +1,12 @@
 ## UMMM Hey 
-
-<!--
-**Byeolunu/Byeolunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
     <p>
-        <img src="https://pin.it/4CPQBMbrE.gif" alt="I see you stalker" />
+        <img src="https://i.pinimg.com/originals/be/6d/ed/be6ded46b365626b0812a41b75875d59.gif" alt="I see you stalker" />
     </p>
 </div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[Byeolunu]&theme=github_dark" alt="[Nouhaila]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Byeolunu&theme=github_dark" alt="[Nouhaila]'s GitHub Stats"/>
 </div>
 
 
