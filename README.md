@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     <p>
-        <img src="https://pin.it/4CPQBMbrE.gif" alt="I see you stalker" />
+        <img src="https://pin.it/4CPQBMbrE" alt="I see you stalker" />
     </p>
 </div>
 
